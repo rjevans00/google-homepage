@@ -16,3 +16,16 @@ Next do the navbar across the top, first building the content and then trying to
 Finally, put in the footer, which should be very similar to the top navbar.
 In general, do as much on your own as you can before relying on the developer tools (or viewing the page’s source code) to help you along.
 Push your project to Github using the instructions above!
+
+
+###################################
+
+Notes:
+
+Google search bar
+
+<div align="center"><form method="get"action="https://www.google.com/search"></div>
+<input type="text" name="q" size="31" value="">
+
+input name must be "q" and not "g" for search results to show.
+
