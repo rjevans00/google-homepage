@@ -29,3 +29,4 @@ Google search bar
 
 input name must be "q" and not "g" for search results to show.
 
+Icons need seperate Div for align="center" to work.
